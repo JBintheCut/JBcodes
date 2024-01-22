@@ -450,6 +450,8 @@ footer {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    position: fixed;
+    bottom: 0;
   }
 
   .footer-info {
